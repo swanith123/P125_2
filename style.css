@@ -1,0 +1,42 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    box-shadow: 5px 5px 5px gray;
+    margin: 0px;
+}
+
+canvas{
+    border: 4px solid rgb(29, 125, 198);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+    background-color: rgb(105, 239, 244);
+}
+
+.copyright_footer{
+    background-color: rgb(255, 194, 147);
+    font-size: 18px;
+    color: black;
+    border: 4px solid rgb(255, 106, 0);
+    bottom: 0;
+    position: fixed;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+}
+
+body{
+    background-color: #0093E9;
+background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%); 
+font-family: 'Cabin', sans-serif;
+}
+
+#title{
+font-size: 35px;
+}
+
+#EnterButton{
+    width: 100px;
+    height: 30px;
+    border: 2px solid rgb(29, 125, 198);
+    background-color: rgb(255, 194, 147);
+}
